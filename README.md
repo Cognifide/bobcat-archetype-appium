@@ -14,7 +14,7 @@ This project is Maven archetype for Bobcat using JUnit tests with support for mo
 mvn archetype:generate \
         -DarchetypeGroupId=com.cognifide.qa.bb.mobile \
         -DarchetypeArtifactId=bb-appium-hello-world-archetype \
-        -DarchetypeVersion=1.0.0 \
+        -DarchetypeVersion=1.0.1 \
 ```
 Example properties for archetype
 ```
