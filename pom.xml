@@ -4,7 +4,7 @@
 
     <groupId>com.cognifide.qa.bb.mobile</groupId>
     <artifactId>bb-appium-hello-world-archetype</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>maven-archetype</packaging>
 
     <name>bb-appium-hello-world-archetype</name>
@@ -34,7 +34,7 @@
     <scm>
         <connection>scm:git:git@github.com:Cognifide/bobcat-archetype-appium.git</connection>
         <developerConnection>scm:git:git@github.com:Cognifide/bobcat-archetype-appium.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.0.2</tag>
         <url>https://github.com/Cognifide/bobcat-archetype-appium</url>
     </scm>
 
