@@ -9,11 +9,11 @@
 
     <name>bb-appium-hello-world-archetype</name>
     <description>Bobcat Appium archetype.</description>
-    <url>https://github.com/Cognifide/bobcat-archetype-appium</url>
+    <url>https://github.com/wttech/bobcat-archetype-appium</url>
     <inceptionYear>2017</inceptionYear>
 
     <organization>
-        <name>Cognifide Ltd.</name>
+        <name>Wunderman Thompson Technology</name>
         <url>http://www.cognifide.com</url>
     </organization>
 
@@ -32,10 +32,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:Cognifide/bobcat-archetype-appium.git</connection>
-        <developerConnection>scm:git:git@github.com:Cognifide/bobcat-archetype-appium.git</developerConnection>
+        <connection>scm:git:git@github.com:wttech/bobcat-archetype-appium.git</connection>
+        <developerConnection>scm:git:git@github.com:wttech/bobcat-archetype-appium.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/Cognifide/bobcat-archetype-appium</url>
+        <url>https://github.com/wttech/bobcat-archetype-appium</url>
     </scm>
 
     <distributionManagement>
